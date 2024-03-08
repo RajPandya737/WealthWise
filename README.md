@@ -1,3 +1,5 @@
+## This Project is associated with the [DeGroote Finance and Investment Council](https://www.degrootefinance.ca/)
+
 To get started contributing, ensure you have the required tools installed. 
 
 [Node](https://nodejs.org/en/download/).
