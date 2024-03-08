@@ -17,7 +17,7 @@ To check if everything is working, we need to run the backend and frontend serve
 
 Then, run the following commands to test the backend:
 ```
-cd backend\dashboard_backend
+cd backend
 ```
 ```
 docker-compose build
@@ -37,7 +37,7 @@ cd ../wealthwise
 ```
 npm run dev
 ```
-The front server should now be running, navigate the link in the terminal ([http://localhost:3000](http://localhost:8000/)) and you should see a screen that is not an error page.
+The front server should now be running, navigate the link in the terminal ([http://localhost:3000](http://localhost:3000/)) and you should see a screen that is not an error page.
 
 
 If you have reached this point, you have successfully set up the project and are ready to start contributing. 
