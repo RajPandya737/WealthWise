@@ -20,16 +20,11 @@ Then, run the following commands to test the backend:
 cd backend
 ```
 ```
-docker-compose build
-```
-```
-docker-compose up
+python app.py
 ```
 
-Navigate to [http://localhost:8000/](http://localhost:8000/) in your browser. You should see a screen that is not an error page. This indicates that the backend is running successfully.
+Navigate to [http://localhost:5000/test](http://localhost:8000/) in your browser. You should see a screen that is not an error page. This indicates that the backend is running successfully.
 
-
-On your Docker Desktop, navigate to the "Images" tab and you should see a new image called "backend_web" and "postgres". This is a good sign. Navigate back to your terminal and stop the backend (Ctrl + C) and run the following command to start testing the frontend:
 
 ```
 cd ../wealthwise
@@ -40,4 +35,4 @@ npm run dev
 The front server should now be running, navigate the link in the terminal ([http://localhost:3000](http://localhost:3000/)) and you should see a screen that is not an error page.
 
 
-If you have reached this point, you have successfully set up the project and are ready to start contributing. 
+If you have reached this point, you have successfully set up the project and are ready to start contributing. Currently we are not using docker, however, we may do so in the future
