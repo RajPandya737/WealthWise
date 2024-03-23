@@ -25,7 +25,7 @@ Then, run the following command to test the backend:
 python backend/app.py
 ```
 
-Navigate to [http://localhost:5000/test](http://localhost:8000/) in your browser. You should see a screen that is not an error page. This indicates that the backend is running successfully.
+Navigate to [http://localhost:5000/test](http://localhost:5000/test) in your browser. You should see a screen that is not an error page. This indicates that the backend is running successfully.
 
 go to the frontend directory (from root directory):
 ```bash
