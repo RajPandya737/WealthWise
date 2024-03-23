@@ -15,21 +15,29 @@ git clone https://github.com/RajPandya737/WealthWise.git
 
 To check if everything is working, we need to run the backend and frontend servers. 
 
-Then, run the following commands to test the backend:
+First install python packages:
+```bash
+pip install -r requirements.txt
 ```
-cd backend
-```
-```
-python app.py
+
+Then, run the following command to test the backend:
+```bash
+python backend/app.py
 ```
 
 Navigate to [http://localhost:5000/test](http://localhost:8000/) in your browser. You should see a screen that is not an error page. This indicates that the backend is running successfully.
 
+go to the frontend directory (from root directory):
+```bash
+cd wealthwise
+```
 
+install node modules:
+```bash
+npm i
 ```
-cd ../wealthwise
-```
-```
+Run servers:
+```bash
 npm run dev
 ```
 The front server should now be running, navigate the link in the terminal ([http://localhost:3000](http://localhost:3000/)) and you should see a screen that is not an error page.
