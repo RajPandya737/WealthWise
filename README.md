@@ -1,3 +1,5 @@
+## This Project is associated with the [DeGroote Finance and Investment Council](https://www.degrootefinance.ca/)
+
 To get started contributing, ensure you have the required tools installed. 
 
 [Node](https://nodejs.org/en/download/).
@@ -35,4 +37,4 @@ npm run dev
 The front server should now be running, navigate the link in the terminal ([http://localhost:3000](http://localhost:3000/)) and you should see a screen that is not an error page.
 
 
-If you have reached this point, you have successfully set up the project and are ready to start contributing. Currently we are not using docker, however, we may do so in the future
+If you have reached this point, you have successfully set up the project and are ready to start contributing. 
