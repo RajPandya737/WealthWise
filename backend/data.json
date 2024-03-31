@@ -1,0 +1,39 @@
+{
+    "AGG": {
+        "1day": 97.82,
+        "week": 97.1,
+        "month": 97.34,
+        "three_months": 98.54,
+        "six_months": 92.83,
+        "year": 97.19,
+        "five_year": 96.6
+    },
+    "KFJ": {
+        "1day": 97.82,
+        "week": 97.1,
+        "month": 97.34,
+        "three_months": 98.54,
+        "six_months": 92.83,
+        "year": 97.19,
+        "five_year": 96.6
+    },
+    "ABC": {
+        "1day": 97.82,
+        "week": 97.1,
+        "month": 97.34,
+        "three_months": 98.54,
+        "six_months": 92.83,
+        "year": 97.19,
+        "five_year": 96.6
+    },
+    "LGM": {
+        "1day": 97.82,
+        "week": 97.1,
+        "month": 97.34,
+        "three_months": 98.54,
+        "six_months": 92.83,
+        "year": 97.19,
+        "five_year": 96.6
+    }
+
+}
