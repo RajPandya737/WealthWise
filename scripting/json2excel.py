@@ -5,8 +5,7 @@ class JSON2Excel:
         self.json_data = json_data
 
     def convert(self, output_file):
-        df = pd.read_json(self.json_data)
-        df = df.T
+        df = pd.read_json(self.json_data).T
         df.to_excel(output_file, index=True, header=True)
         
 # Testing the JSON2Excel class
