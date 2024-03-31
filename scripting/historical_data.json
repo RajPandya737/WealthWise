@@ -1,0 +1,164 @@
+{
+    "XIU.TO": {
+        "1day": 33.46,
+        "week": 33.29,
+        "month": 32.65,
+        "three_months": 31.58,
+        "six_months": 29.2,
+        "year": 28.67,
+        "five_year": 20.8
+    },
+    "HBM": {
+        "1day": 6.87,
+        "week": 6.93,
+        "month": 5.59,
+        "three_months": 5.61,
+        "six_months": 4.6,
+        "year": 4.82,
+        "five_year": 7.01
+    },
+    "L": {
+        "1day": 76.45,
+        "week": 76.97,
+        "month": 75.19,
+        "three_months": 68.74,
+        "six_months": 63.81,
+        "year": 54.35,
+        "five_year": 46.45
+    },
+    "WFG": {
+        "1day": 87.26,
+        "week": 81.14,
+        "month": 76.76,
+        "three_months": 85.02,
+        "six_months": 71.77,
+        "year": 68.3,
+        "five_year": 43.96
+    },
+    "SPY": {
+        "1day": 521.21,
+        "week": 509.83,
+        "month": 506.28,
+        "three_months": 472.18,
+        "six_months": 422.85,
+        "year": 390.1,
+        "five_year": 259.41
+    },
+    "APO": {
+        "1day": 112.58,
+        "week": 110.41,
+        "month": 111.61,
+        "three_months": 91.23,
+        "six_months": 89.1,
+        "year": 56.35,
+        "five_year": 23.64
+    },
+    "AAPL": {
+        "1day": 172.28,
+        "week": 172.62,
+        "month": 182.52,
+        "three_months": 193.35,
+        "six_months": 171.51,
+        "year": 159.4,
+        "five_year": 44.96
+    },
+    "CEG": {
+        "1day": 178.24,
+        "week": 165.52,
+        "month": 133.73,
+        "three_months": 115.1,
+        "six_months": 108.03,
+        "year": 72.67,
+        "five_year": "No Data"
+    },
+    "EA": {
+        "1day": 131.7,
+        "week": 134.27,
+        "month": 142.4,
+        "three_months": 137.49,
+        "six_months": 118.04,
+        "year": 118.34,
+        "five_year": 100.35
+    },
+    "ISRG": {
+        "1day": 394.07,
+        "week": 396.28,
+        "month": 389.77,
+        "three_months": 336.26,
+        "six_months": 290.74,
+        "year": 256.42,
+        "five_year": 189.21
+    },
+    "MA": {
+        "1day": 481.67,
+        "week": 475.83,
+        "month": 473.42,
+        "three_months": 423.43,
+        "six_months": 394.19,
+        "year": 349.51,
+        "five_year": 226.94
+    },
+    "TEX": {
+        "1day": 61.62,
+        "week": 59.07,
+        "month": 53.72,
+        "three_months": 57.69,
+        "six_months": 56.29,
+        "year": 45.44,
+        "five_year": 30.01
+    },
+    "AMSF": {
+        "1day": 49.81,
+        "week": 50.53,
+        "month": 50.42,
+        "three_months": 47.01,
+        "six_months": 46.89,
+        "year": 44.5,
+        "five_year": 38.84
+    },
+    "VEEV": {
+        "1day": 230.42,
+        "week": 226.98,
+        "month": 221.64,
+        "three_months": 190.85,
+        "six_months": 199.39,
+        "year": 175.58,
+        "five_year": 125.57
+    },
+    "GSL": {
+        "1day": 19.77,
+        "week": 19.95,
+        "month": 20.03,
+        "three_months": 19.69,
+        "six_months": 17.51,
+        "year": 16.7,
+        "five_year": 4.56
+    },
+    "XBB": {
+        "1day": 40.17,
+        "week": 39.79,
+        "month": 39.83,
+        "three_months": 39.6,
+        "six_months": 36.91,
+        "year": 36.27,
+        "five_year": "No Data"
+    },
+    "AGG": {
+        "1day": 97.82,
+        "week": 97.1,
+        "month": 97.34,
+        "three_months": 98.54,
+        "six_months": 92.83,
+        "year": 97.19,
+        "five_year": 96.6
+    },
+    "SPSB": {
+        "1day": 29.77,
+        "week": 29.67,
+        "month": 29.6,
+        "three_months": 29.49,
+        "six_months": 28.63,
+        "year": 28.41,
+        "five_year": 27.05
+    }
+}
