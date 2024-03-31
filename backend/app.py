@@ -19,12 +19,15 @@ def test():
   time = datetime.now()
   current_time = time.strftime("%H:%M:%S")
 
-
-
-  return jsonify({'message': 
-                  "1day: 97.82,\t week: 97.1,\n month: 97.34,\n three_months: 98.54,\n six_months: 92.83,\n year: 97.19,\n five_year: 96.6"
-})
-
+  return jsonify({
+    'last_day': 97.82,
+    'week': 97.1,
+    'month': 97.34,
+    'three_months': 98.54,
+    'six_months': 92.83,
+    'year': 97.19,
+    'five_year': 96.6
+  })
 
 if __name__ == "__main__":
   app.run(debug=True)
