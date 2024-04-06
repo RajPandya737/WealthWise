@@ -1,0 +1,141 @@
+{
+    "investments": {
+        "stocks": [
+            {
+                "currency": "CAD",
+                "ticker": "XIU",
+                "amount": 519,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 31.26
+            },
+            {
+                "currency": "CAD",
+                "ticker": "HBM",
+                "amount": 225,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 6.68
+            },
+            {
+                "currency": "CAD",
+                "ticker": "L",
+                "amount": 20,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 126.0
+            },
+            {
+                "currency": "CAD",
+                "ticker": "WFG",
+                "amount": 23,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 112.4
+            },
+            {
+                "currency": "CAD",
+                "ticker": "CSH.UN",
+                "amount": 107,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 11.6
+            },
+            {
+                "currency": "USD",
+                "ticker": "SPY",
+                "amount": 25,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 406.81
+            },
+            {
+                "currency": "USD",
+                "ticker": "APO",
+                "amount": 30,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 62.36
+            },
+            {
+                "currency": "USD",
+                "ticker": "AAPL",
+                "amount": 4,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 165.39
+            },
+            {
+                "currency": "USD",
+                "ticker": "CEG",
+                "amount": 25,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 76.42
+            },
+            {
+                "currency": "USD",
+                "ticker": "EA",
+                "amount": 16,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 121.57
+            },
+            {
+                "currency": "USD",
+                "ticker": "ISRG",
+                "amount": 8,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 238.04
+            },
+            {
+                "currency": "USD",
+                "ticker": "MA",
+                "amount": 5,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 358.41
+            },
+            {
+                "currency": "USD",
+                "ticker": "TEX",
+                "amount": 56,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 34.66
+            },
+            {
+                "currency": "USD",
+                "ticker": "AMSF",
+                "amount": 45,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 47.2
+            },
+            {
+                "currency": "USD",
+                "ticker": "VEEV",
+                "amount": 5,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 189.04
+            },
+            {
+                "currency": "USD",
+                "ticker": "GSL",
+                "amount": 101,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 20.29
+            }
+        ],
+        "bonds": [
+            {
+                "currency": "CAD",
+                "ticker": "XBB",
+                "amount": 741,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 28.15
+            },
+            {
+                "currency": "USD",
+                "ticker": "AGG",
+                "amount": 96,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 97.83
+            },
+            {
+                "currency": "USD",
+                "ticker": "SPSB",
+                "amount": 320,
+                "purchase_date": "DD/MM/YYYY",
+                "purchase_price": 29.73
+            }
+        ]
+    }
+}
